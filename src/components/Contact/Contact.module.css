@@ -1,0 +1,29 @@
+.contact {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  align-items: center;
+  border: 2px solid #fff;
+  padding: 4px 15px;
+  border-radius: 10px;
+}
+
+.data {
+  display: block;
+}
+
+p {
+  margin: 0;
+}
+
+.range {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 5px;
+}
+
+.btn {
+  width: 150px;
+  height: 50px;
+}
